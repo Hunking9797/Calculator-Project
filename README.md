@@ -1,6 +1,6 @@
 # Calculator-Project
 Simple calculator developed with HTML, CSS, JavaScript </br>
-------------FOR LIVE WORKING OF THIS PROJECT VISIT THIS LINK https://calculator-project-jade.vercel.app ------------------------------
+------------FOR LIVE WORKING OF THIS PROJECT VISIT THIS LINK <a href="https://calculator-project-jade.vercel.app" target="_blank_"> HERE</a> ------------------------------
 
 // HTML 
 1. Normal structured html file containing only outer div having:
