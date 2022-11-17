@@ -1,5 +1,5 @@
 # Calculator-Project
-Simple calculator developed with HTML, CSS, JavaScript
+Simple calculator developed with HTML, CSS, JavaScript </br>
 ------------FOR LIVE WORKING OF THIS PROJECT VISIT THIS LINK https://calculator-project-jade.vercel.app ------------------------------
 
 // HTML 
